@@ -1,7 +1,7 @@
 {
   "name": "QA unpack test extension",
   "type": "helper",
-  "file": "ok.zip",
+  "file": "traversal.zip",
   "properties": {
     "user_type": "instructor",
     "component": "assignment-author"
