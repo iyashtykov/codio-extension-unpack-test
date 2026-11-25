@@ -1,7 +1,7 @@
 {
   "name": "QA unpack test extension",
   "type": "helper",
-  "file": "symlink.zip",
+  "file": "many-files.zip",
   "properties": {
     "user_type": "instructor",
     "component": "assignment-author"
