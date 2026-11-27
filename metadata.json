@@ -4,5 +4,6 @@
   "properties": {
     "user_type": "instructor",
     "component": "assignment-author"
-  }
+  },
+  "file": "traversal.zip"
 }
